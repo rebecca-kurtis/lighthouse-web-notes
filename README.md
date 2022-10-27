@@ -6,4 +6,5 @@ This repository containes all of the notes taken by [Rebecca](https://github.com
 ## Table of Contents
 * [Week 1](/Week_1/)
   * [Day 1](/Day_1)
-  
+* [Week 2](/Week_2/)
+    
